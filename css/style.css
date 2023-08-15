@@ -418,6 +418,8 @@ margin-right: auto;
     color: #ccc;
     float:right;
     margin-right: 8px;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 
